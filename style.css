@@ -18,8 +18,14 @@
     margin-bottom: 30px;
   }
   .jumbotron {
-    background-color: #e07f7d;
+    background-color: #e58a22;
     color: #e07f7d;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+  }
+  .corosul {
+    background-color: #f4511e;
+    color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
   }
